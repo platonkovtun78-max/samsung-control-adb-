@@ -1,2 +1,17 @@
-# samsung-control-adb-
-Simple tool to control Samsung phones via ADB -reboot to recovery/download mode
+# Samsung Control ADB
+
+Простой инструмент для Samsung на Windows. Быстро перезагружает телефон в Recovery или Download Mode через ADB.
+
+### Что умеет
+- Перезагрузка в Recovery
+- Перезагрузка в Download Mode (Odin)
+- Перезагрузка системы
+- Проверка подключения
+
+### Как пользоваться
+1. Скачай последний релиз
+2. Включи Отладку по USB на телефоне
+3. Подключи телефон к ПК
+4. Запусти samsung_control.bat
+
+Сделано в Алматы!
